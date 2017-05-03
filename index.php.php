@@ -1,0 +1,6 @@
+<HTML>
+<HEAD><TITLE>MI PRIMER PROGRAMA PHP</TITLE></HEAD>
+<BODY>
+<?PHP echo"PHP es sencillo";?>
+</BODY>
+</HTML>
